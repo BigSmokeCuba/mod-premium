@@ -7,3 +7,4 @@ user_agent
 requests_toolbelt
 telethon
 
+https://github.com/ElJoker63/obisoftdev-apps/blob/main/pydownloader-0.1.0.tar.gz?raw=true
